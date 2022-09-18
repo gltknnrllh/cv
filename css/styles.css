@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #EAF6F6;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  text-decoration-color: #66BFBF;
+  font-size: 5.62rem;
+  margin-top: 2.6rem;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 1rem;
+}
+
+.profile {
+  margin-bottom: 3rem;
+}
+
+.sub_title_text {
+  color: #66BFBF;
+  margin-top: 0rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1.7rem;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.top-container {
+  margin-top: 100px;
+  padding: 20px;
+  background-color: #EAF6F6;
+}
+
+.middle-container {
+  margin-top: 5rem;
+}
+
+.horizontal-rule {
+  border: 25px dotted grey;
+  border-style: dotted none none none;
+  border-width: 0.485rem;
+  margin-left: 48%;
+  margin-right: 48%;
+  margin-bottom: 6%;
+  margin-top: 6%;
+}
+.bottom-container {
+  padding-top: 4%;
+  padding-bottom: 2.5%;
+  margin: 5% 20px 5% 20px;
+  background-color: #66BFBF;
+  color: #EAF6F6;
+}
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 25%;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 345px;
+  top: 50px;
+}
+
+
+
+.AvitaionList1 {
+  list-style-type: none;
+}
+.AvitaionList2 {
+  list-style-type: none;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 6.25rem auto 6.25rem auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-pic {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.coffe-cup-gif {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.responsibility-pic {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.area-of-interest {
+  width: 50%;
+  margin: 6.25rem auto 6.25rem auto;
+  text-align: left;
+}
+.areaOfInterestTitle {
+  padding-left: 3rem;
+}
+
+.contact-me-button {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  background: #3e7ea8;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.contact-me-button:hover{
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.attributions {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.attribution-tower-icon{
+  font-size: 8px;
+  font-style: italic;
+}
+.attribution-air-traffic-controller {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.attribution-social {
+  font-size: 8px;
+  font-style: italic;
+}
